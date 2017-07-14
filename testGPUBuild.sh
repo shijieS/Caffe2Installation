@@ -1,0 +1,1 @@
+-m caffe2.python.operator_test.relu_op_test

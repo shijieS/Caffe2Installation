@@ -1,0 +1,1 @@
+./required-dependencies.sh  && ./optional-dependencies.sh && ./update-graphic-card.sh && ./install-cuDNN.sh && ./cloneAndBuild.sh && ./addCaffe2Env.sh && echo "Success Install" || echo "Failure Install"
